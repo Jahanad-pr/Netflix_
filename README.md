@@ -2,6 +2,8 @@
 
 A simple Netflix UI clone built with React + Vite, using Firebase for auth/data.
 
+[Live view](https://note-app-five-pink.vercel.app/)
+
 <img src="screenshort.png">
 
 ## Tech Stack
